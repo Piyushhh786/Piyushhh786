@@ -18,7 +18,7 @@
 
 ## 🧑‍💻 About Me
 - 🎓 B.Tech CSE student at **SVNIT Surat** (2023–27)
-- 💡 Ask me about: **DSA, Internship Experience ,Node.js, React, C++ **
+- 💡 Ask me about: **DSA, Internship Experience ,Node.js, React, C++**
 
 ## 🛠 Tech Stack
 <p align="center">
