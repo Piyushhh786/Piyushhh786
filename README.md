@@ -18,9 +18,7 @@
 
 ## 🧑‍💻 About Me
 - 🎓 B.Tech CSE student at **SVNIT Surat** (2023–27)
-- 🔭 Currently working on: **<your current project>**
-- 🌱 Learning: **<what you're learning now>**
-- 💡 Ask me about: **JavaScript, Node.js, React, C++ DSA**
+- 💡 Ask me about: **DSA, Internship Experience ,Node.js, React, C++ **
 
 ## 🛠 Tech Stack
 <p align="center">
